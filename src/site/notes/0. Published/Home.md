@@ -13,7 +13,7 @@
 - In the family crypt, the party laid the children's skeletons to rest, freeing the possessed heroes and giving the spirits peace.
 - Their descent ended in a sacrificial chamber where they refused to offer a sacrifice, causing the "heart of the house"—a fleshy, monstrous amalgam of Elizabeth Durst—to attack.
 - After destroying the monster, the party made a frantic escape from the collapsing house before it became their tomb.
-- **Where we left off:** The exhausted, now level 3, party stands outside the ruined manor. The mists have cleared, revealing the Village of Barovia before them. Their rescued dog, Sophaxis, has just crumbled to dust in a final, cruel twist of the knife from the house they left behind.
+- **Where we left off:** The exhausted, now level 3, party stands outside the ruined manor. The mists have cleared, revealing the eerily quiet village around them. Their rescued dog, Sophaxis, has just crumbled to dust in a final, cruel twist of the knife from the house they left behind.
 
 # Full Session Logs
 
