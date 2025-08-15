@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/0-published/session-logs/session-0-5-into-the-mists/"}
 ---
 
-Our story begins not with a grand quest, but with a quiet sense of unease. The party—a cleric on a holy mission, a wandering monster hunter, a stoic paladin, and a druid with an insatiable curiosity—awoke from their camp along the Sword Coast to find that the world they knew had vanished.
+# Session 0.5 - Into the Mists
+
+Our story begins not with a grand quest, but with a quiet sense of unease. The party—a cleric on a holy mission (Gowain Heylgwyn), a wandering monster hunter (Lorian Calmorn), a stoic paladin (Kellen), a shifty rogue (Lyric Malwyn), and a druid monk with an insatiable curiosity (Getafix)—awoke from their camp along the Sword Coast to find that the world they knew had vanished.
 
 ### The Unwelcoming Woods
 
@@ -36,7 +38,7 @@ Alongside the letter, the party found books filled with profane rituals for achi
 
 With these grim discoveries, the party ascended to the third floor. As they climbed the grand staircase, a chill ran down their spines. The house transformed before their eyes. The polished wood grew cracked and decayed. Thick cobwebs and layers of dust appeared from nowhere, and the warm lamplight from the floor below winked out, plunging them into oppressive darkness. The house was no longer just a house; it was a tomb.
 
-At the top of the stairs, a suit of black plate armor, draped in cobwebs, stood waiting. As the adventurers approached, it creaked to life, its empty helm turning towards them as it raised its arms to strike. The session ended with the party locked in a desperate battle against the animated armor, their first taste of the physical dangers that lurked within the cursed house. After a hard-fought battle, they emerged victorious, the clatter of the defeated armor echoing in the now-silent hall.
+At the top of the stairs, a suit of black plate armor, draped in cobwebs, stood waiting. As Lorian approached, it creaked to life, its empty helm turning towards him as it raised its arms to strike. The session ended with the party locked in a desperate battle against the animated armor, their first taste of the physical dangers that lurked within the cursed house. After a hard-fought battle, they emerged victorious, the clatter of the defeated armor echoing in the now-silent hall.
 
 ---
 
