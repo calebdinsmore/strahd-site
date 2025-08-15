@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/site/session-logs/session-1-the-sins-of-durst-manor/"}
 ---
 
-Of course. Here is the session summary, retold as a story.
-
----
-
 # Session 1: The Sins of Durst Manor
 
 Our story resumes on the third floor of the eerie estate, in the unsettling silence following the party's clash with a suit of animated armor. The air, thick with dust and the weight of years, seemed to shift as the heroes pushed deeper, leaving the pristine illusion of the lower floors behind for a place twisted by time and sorrow.
