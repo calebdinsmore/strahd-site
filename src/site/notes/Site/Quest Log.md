@@ -31,6 +31,8 @@ We got hired to find Gregor Stanovich, who went missing a couple of days ago–t
 - We tried to stop her, but failed.
 - She fled with (too fast for her age) steps to a windmill (northwest of town, near a Vistani encampment)
 
+![Player Map to Old Bonegrinder.png](/img/user/z_Assets/Player%20Map%20to%20Old%20Bonegrinder.png)
+
 ---
 # Characters
 
