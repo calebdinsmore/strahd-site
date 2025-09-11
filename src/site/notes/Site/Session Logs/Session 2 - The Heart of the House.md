@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/session-logs/session-2-the-heart-of-the-house/"}
+{"dg-publish":true,"dg-path":"Session Logs/Session 2 - The Heart of the House.md","permalink":"/session-logs/session-2-the-heart-of-the-house/"}
 ---
 
 # Session 2: The Heart of the House

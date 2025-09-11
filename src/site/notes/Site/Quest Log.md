@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/quest-log/"}
+{"dg-publish":true,"dg-path":"Quest Log.md","permalink":"/quest-log/"}
 ---
 
 # Quest Log
@@ -30,4 +30,39 @@ We got hired to find Gregor Stanovich, who went missing a couple of days ago–t
 - After not being paid by a poor guy she took his son. 
 - We tried to stop her, but failed.
 - She fled with (too fast for her age) steps to a windmill (northwest of town, near a Vistani encampment)
+
+---
+# Characters
+
+## Ismark the Lesser a.k.a The Burgomaster
+
+- Became the burgomaster after his father the former one died short time ago
+- His father is still not buried, but is in their mansion
+- His sister is called Ireena and she lives with her dead father in his house. She can’t leave, because otherwise old Strahd will get her… he has an “interest” in her…
+
+## Strahd
+
+- aka The Devil, God of this Land
+- He has an interest in Ireena, the sister of Ismark (burgomaster)
+- He can’t come into homes, without being invited
+- He lives in Castle Ravenloft
+
+## Vistani
+
+- Group of people working for Strahd.
+- Seem to be the “bad guys” and are considered traitors to the rest of the people.
+- Three of them own the local waterhole
+
+## Madam Eva
+
+- Seems to be the local Boss of the Vistani, also recruiting new people.
+- She’s a fortune teller
+
+## Morgana (the witch?)
+
+- Sells her weird drug cookies
+- Takes children as payment
+- Hides in an old mill
+- Probably some kind of magic wunderkind
+
 

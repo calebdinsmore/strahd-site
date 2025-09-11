@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/characters/lorian-calmorn-blood-hunter/"}
+{"dg-publish":true,"dg-path":"Characters/Lorian Calmorn, Blood Hunter.md","permalink":"/characters/lorian-calmorn-blood-hunter/"}
 ---
 
 ![LorianCalmorn.jpeg](/img/user/z_Assets/PCs/LorianCalmorn.jpeg)

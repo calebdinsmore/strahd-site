@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/session-logs/session-3-the-village-of-barovia/"}
+{"dg-publish":true,"dg-path":"Session Logs/Session 3 - The Village of Barovia.md","permalink":"/session-logs/session-3-the-village-of-barovia/"}
 ---
 
 # Session 3 - The Village of Barovia
