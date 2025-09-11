@@ -13,7 +13,7 @@
 - After laying the children's spirits to rest in their family crypt, the party fought their way out of the collapsing house, escaping with their lives but losing their newly-found canine companion, Sophaxis, who crumbled to dust before their eyes.
 - Emerging from the shadow of the cursed manor, they entered the desolate Village of Barovia, a place of perpetual gloom and sorrow. They encountered a sinister pastry-seller named Morgana who was trading her magically-infused wares for local children.
 - At the Blood of the Vine tavern, they met **Ismark Kolyanovich**, who pleaded with them to help protect his sister, **Ireena**, from the unwanted advances of Strahd and to see that their deceased father, the Burgomaster, received a proper burial.
-- **Where we left off**: Investigating the local church at the behest of a grieving "Mad Mary," the party discovered the priest, Donavich, had been feeding villagers to his vampire spawn son, Doru. After a brutal battle in the church's undercroft, the party vanquished the creature, leaving them to decide the fate of the complicit priest and to confront the many other shadows hanging over the village.
+- **Where we left off**: Investigating the local church after uncovering several clues pointing in its direction, the party discovered the priest, Donavich, had been feeding villagers to his vampire spawn son, Doru. After a brutal battle in the church's undercroft, the party vanquished the creature, leaving them to decide the fate of the complicit priest and to confront the many other shadows hanging over the village.
 
 # Full Session Logs
 
