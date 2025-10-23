@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/characters/lorian-calmorn-blood-hunter/"}
+{"dg-publish":true,"dg-path":"Characters/Lorian Calmorn, Blood Hunter.md","permalink":"/characters/lorian-calmorn-blood-hunter/"}
 ---
 
 ![LorianCalmorn.jpeg](/img/user/z_Assets/PCs/LorianCalmorn.jpeg)
@@ -12,9 +12,4 @@
 | ---------- | ------------ | ----- | --- |
 | Dragonborn | Blood Hunter | 3     | 16  |
 
-:::hidden
 
-> [!important] Mysterious Secret
-> You are the descendant of an ancient silver dragon, whose blood and/or magic still manifests in your family line. You know little of your distant relation, except that the dragon was a paragon of good.
-
-:::
