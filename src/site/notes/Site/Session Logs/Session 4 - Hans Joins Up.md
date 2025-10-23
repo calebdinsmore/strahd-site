@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Session Logs/Session 4 - Hans Joins Up.md","permalink":"/session-logs/session-4-hans-joins-up/"}
+{"dg-publish":true,"permalink":"/site/session-logs/session-4-hans-joins-up/"}
 ---
 
 # Session 4: Hans Joins Up

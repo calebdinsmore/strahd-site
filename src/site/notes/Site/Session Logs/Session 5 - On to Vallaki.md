@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Session Logs/Session 5 - On to Vallaki.md","permalink":"/session-logs/session-5-on-to-vallaki/"}
+{"dg-publish":true,"permalink":"/site/session-logs/session-5-on-to-vallaki/"}
 ---
 
 # Session 5: On to Vallaki

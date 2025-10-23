@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quest Log.md","permalink":"/quest-log/"}
+{"dg-publish":true,"permalink":"/site/quest-log/"}
 ---
 
 # Quest Log
@@ -66,5 +66,3 @@ We got hired to find Gregor Stanovich, who went missing a couple of days ago–t
 - Takes children as payment
 - Hides in an old mill
 - Probably some kind of magic wunderkind
-
-

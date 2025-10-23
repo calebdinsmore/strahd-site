@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/site/home/","tags":["gardenEntry"]}
 ---
 
 
@@ -14,7 +14,9 @@
 - The party agreed to help Ismark with his father's burial. The funeral was dramatically interrupted by the arrival of Strahd himself. When a grief-stricken Ismark charged the vampire lord, the party intervened, preventing his certain death before battling a horde of zombies summoned by Strahd.
 - Convinced of the party's strength, Ismark persuaded them to escort Ireena to the fortified town of Vallaki. As payment, he gifted them the magical **Ring of the Watcher**.
 - The journey was marked by unsettling omens. Their path led them to a Vistani encampment, where they were granted an audience with the enigmatic fortune teller, **Madam Eva**. Her Tarokka card reading provided them with five cryptic clues hinting at the locations of powerful artifacts and a potential ally.
-- **Where we left off:** Armed with five cryptic prophecies from Madam Eva's reading, the adventurers, now level four, must decipher these clues and continue their journey to Vallaki, all while protecting Ireena from the ever-present shadow of Strahd.
+- Setting out toward Vallaki, the party was intercepted by two guards—**Vasily**, a nervous trapper, and **Mana**, a broad-shouldered volunteer—searching for a missing herbalist from Vallaki. The guards agreed to join the group on the journey.
+- The party made a crucial detour to an ancient **windmill on a precipice**, one of the locations mentioned in Madam Eva's prophecy. There, they discovered the dark truth behind the missing children of Barovia: the windmill's proprietors, **Bella** and **Ofelia**, had been kidnapping children and keeping them imprisoned in crates on the upper floors. Among the captives were **Freek** (the boy from the Village of Barovia) and a young girl named **Myrtle**. The party recovered a mysterious cipher-bound tome that appeared to belong to Strahd himself, though they were forced to retreat before rescuing the children.
+- **Where we left off:** Now level four, the party must decide their next move—rescue the children from the windmill, continue to Vallaki to gather strength, or pursue other leads from Madam Eva's prophecy. They carry both the mysterious Strahd tome and a burning determination to return to the windmill and defeat the women who operate it. Ireena remains in their protective custody, and the shadow of Strahd grows ever longer.
 
 # Full Session Logs
 
@@ -24,3 +26,4 @@
 - [[Site/Session Logs/Session 3 - The Village of Barovia\|Session 3 - The Village of Barovia]]
 - [[Site/Session Logs/Session 4 - Hans Joins Up\|Session 4 - Hans Joins Up]]
 - [[Site/Session Logs/Session 5 - On to Vallaki\|Session 5 - On to Vallaki]]
+- [[Site/Session Logs/Session 6 - Tension at the Mill\|Session 6 - Tension at the Mill]]
