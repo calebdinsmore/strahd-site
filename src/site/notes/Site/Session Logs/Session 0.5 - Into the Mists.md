@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/session-logs/session-0-5-into-the-mists/"}
+{"dg-publish":true,"dg-path":"Session Logs/Session 0.5 - Into the Mists.md","permalink":"/session-logs/session-0-5-into-the-mists/"}
 ---
 
 # Session 0.5 - Into the Mists

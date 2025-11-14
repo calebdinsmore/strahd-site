@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/session-logs/session-1-the-sins-of-durst-manor/"}
+{"dg-publish":true,"dg-path":"Session Logs/Session 1 - The Sins of Durst Manor.md","permalink":"/session-logs/session-1-the-sins-of-durst-manor/"}
 ---
 
 # Session 1: The Sins of Durst Manor

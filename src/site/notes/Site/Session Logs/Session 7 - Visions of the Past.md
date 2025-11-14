@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/session-logs/session-7-visions-of-the-past/"}
+{"dg-publish":true,"dg-path":"Session Logs/Session 7 - Visions of the Past.md","permalink":"/session-logs/session-7-visions-of-the-past/"}
 ---
 
 # Session 7: Visions of the Past
