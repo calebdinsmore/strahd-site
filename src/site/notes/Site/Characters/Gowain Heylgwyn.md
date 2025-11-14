@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Characters/Gowain Heylgwyn.md","permalink":"/characters/gowain-heylgwyn/"}
+{"dg-publish":true,"permalink":"/site/characters/gowain-heylgwyn/"}
 ---
 
 

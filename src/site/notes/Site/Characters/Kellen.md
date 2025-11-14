@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Characters/Kellen.md","permalink":"/characters/kellen/"}
+{"dg-publish":true,"permalink":"/site/characters/kellen/"}
 ---
 
 | Race    | Class   | Level | AC  |

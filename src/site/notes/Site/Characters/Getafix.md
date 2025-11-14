@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Characters/Getafix.md","permalink":"/characters/getafix/"}
+{"dg-publish":true,"permalink":"/site/characters/getafix/"}
 ---
 
 

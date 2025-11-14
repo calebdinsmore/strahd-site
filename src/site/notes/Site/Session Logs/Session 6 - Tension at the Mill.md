@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Session Logs/Session 6 - Tension at the Mill.md","permalink":"/session-logs/session-6-tension-at-the-mill/"}
+{"dg-publish":true,"permalink":"/site/session-logs/session-6-tension-at-the-mill/"}
 ---
 
 # Session 6: Tension at the Mill

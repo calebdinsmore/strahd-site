@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Quest Log.md","permalink":"/quest-log/"}
+{"dg-publish":true,"permalink":"/site/quest-log/"}
 ---
 
 # Quest Log
