@@ -42,7 +42,7 @@ After being admitted by the guards, the party made their way to **St. Andral's C
 
 The heroes found their way to the **Blue Water Inn**, a large, lively tavern with ravens perched along its roof. The establishment was run by Danica Martikov, who seemed to take a particular interest in Gowain. When questioned, she deflected, blaming his "hostility" towards the ravens, whom she considered friends of the inn.
 
-While Getafix and Gowain retired to their room to begin the laborious four-hour process of deciphering the next chapter of the Tome, Lorian and Kellen mingled with the locals. They spoke with two gruff hunters, Joldar and Evgeni, and a well-dressed accountant named **Vasili von Holtz**. From them, they gathered crucial intelligence about the town's tense political climate:
+While Getafix and Gowain retired to their room to begin the laborious four-hour process of deciphering the next chapter of the Tome, Lorian and Kellen mingled with the locals. They spoke with two gruff hunters, Szoldar and Evgeni, and a well-dressed accountant named **Vasili von Holtz**. From them, they gathered crucial intelligence about the town's tense political climate:
 
 - **Baron Vargas Vallakovich**, the burgomaster, enforces a strict policy of mandatory happiness, holding weekly festivals to keep morale high, believing it keeps the town safe. Any dissent is publicly punished in the town stocks.
 - **Lady Fiona Wachter**, a rival noble, openly despises the Baron and is rumored to have ancient family ties to Strahd himself.
