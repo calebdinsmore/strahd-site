@@ -54,7 +54,7 @@ Their inquiries about a set of "amber doors" from their Tarokka reading yielded 
 
 As the night wore on, Getafix and Gowain completed their work. The Tome of Strahd flared to life once more, pulling the entire party into a second vision. They stood in a war tent, face to face with a younger, vital Strahd, clad in scarlet armor. He was no prince, but a general, planning a battle against the knights of the Order of the Silver Dragon at their fortress, **Castle Argynvost**.
 
-The scene shifted, and the party found themselves on the battlefield, cast as soldiers in Strahd's army. As the assault began, Strahd was struck by a javelin and knocked from his horse. The party chose to press the attack, following a commander named Alexandra up the steep path to the castle. As they charged, massive boulders were sent rolling down the hill, and they were forced to scramble up the treacherous slope to avoid being crushed.
+The scene shifted, and the party found themselves on the battlefield, cast as soldiers in Strahd's army. As the assault began, Strahd was struck by a javelin and knocked from his horse. The party chose to press the attack, following a commander named Aleksandra up the steep path to the castle. As they charged, massive boulders were sent rolling down the hill, and they were forced to scramble up the treacherous slope to avoid being crushed.
 
 Upon reaching the top, they were met by a formidable general of the Order of the Silver Dragon, wielding a magnificent sword with a hilt like silver dragon wings. As he and his guards turned to face them, the session ended, leaving the heroes on the verge of a battle in Strahd's distant past.
 
