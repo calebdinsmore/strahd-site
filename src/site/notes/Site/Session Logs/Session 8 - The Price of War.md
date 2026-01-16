@@ -10,7 +10,7 @@ The party's second journey into the Tome of Strahd began where the last had ende
 
 The party surged up the steep path toward the castle alongside their fellow soldiers, dodging massive boulders that the defenders rolled down the hillside. Through quick reflexes and desperate scrambling, they crested the rise to find themselves face-to-face with Sir Godfrey Gwilym, a formidable general of the Order, flanked by three guards responsible for the boulder assault.
 
-Sir Godfrey cut an imposing figure. His shield bore the sigil of the Silver Dragon, and in his hand he wielded a magnificent short sword—its hilt sculpted to resemble silver dragon wings, its pommel shaped like a dragon's head clutching a black opal between its teeth. He and his men stood ready for battle, and the general's voice rang out across the hilltop: "By the order of the Silver Dragon, we will wipe you and your forces from this plane of existence if you do not retreat!"
+Sir Godfrey cut an imposing figure. His shield bore the sigil of the Silver Dragon, and in his hand he wielded a magnificent short sword—its hilt sculpted to resemble silver dragon wings, its pommel shaped like a dragon's head clutching a black opal between its teeth. He and his men stood ready for battle, and the general's voice rang out across the hilltop: "By the order of the Silver Dragon, we will wipe you and your forces from this plane of existence!"
 
 ## A Failed Parley
 
