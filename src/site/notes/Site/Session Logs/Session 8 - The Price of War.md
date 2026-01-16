@@ -26,12 +26,11 @@ What followed was a brutal, grinding battle. The party fought with everything th
 
 Gowain unleashed searing flames with Burning Hands, reducing the first guard to ash before he could close the distance. Getafix summoned a field of Spike Growth, transforming the battlefield into a treacherous maze of camouflaged thorns that tore at anyone who dared cross it. The second guard fell trying to navigate the deadly terrain, impaled by spikes with each agonizing step.
 
-But Sir Godfrey was no mere soldier. He waded through the spike growth, accepting the pain as the price of reaching his enemies. His first target was Getafix, whose symbiotic mushroom sprouted from his forehead as he transformed into his most powerful form. The druid's necrotic-infused strikes damaged the general, but not enough. Sir Godfrey's blade found its mark again and again, divine light searing through Getafix's defenses until the druid collapsed, unconscious and bleeding.
+But Sir Godfrey was no mere soldier. He waded through the spike growth, accepting the pain as the price of reaching his enemies. His first target was Getafix, whose symbiotic mushroom sprouted from his forehead as he transformed into his most powerful form. The druid's necrotic-infused strikes damaged the general, but not enough. Sir Godfrey's blade found its mark again and again, divine light searing through Getafix's defenses.
 
 Gowain stepped forward, channeling his god's power through guiding bolts and warding flares of holy light, but the general's constitution was ironclad. He shrugged off flames, endured radiant punishment, and pressed his advantage with terrifying efficiency.
 
 > **The Tide Turns**
->
 > One by one, the party fell. Getafix went down to a vicious divine smite. Gowain, after burning through his spell slots trying to keep his allies alive, finally succumbed to the general's relentless assault. Even Lorian, who had tried to avoid the conflict, was forced to engage—but his crossbow bolts and desperate strikes couldn't stop what was coming. He soon was struck down, coming only to the brink of death.
 > As his vision faded, Lorian's last moments of consciousness saw Ireena Kolyana rushing in vain toward Gwilym, rapier in hand and fear and determination in her eyes.
 
@@ -47,7 +46,7 @@ Sir Godfrey, too, had fallen. His body lay further up the road, a river of blood
 
 ## The Silver Dragon
 
-As Lorian stood in shock, a divine cacophony of thunderous booms beat against his eardrums. A cold shiver ran down his spine, emanating from the castle high on the hill. Then came a blood-curdling roar that silenced the entire battlefield.
+As Lorian stood in shock, a cacophony of thunderous booms beat against his eardrums. A cold shiver ran down his spine, emanating from the castle high on the hill. Then came a blood-curdling roar that silenced the entire battlefield.
 
 Lorian's gaze was drawn skyward.
 
