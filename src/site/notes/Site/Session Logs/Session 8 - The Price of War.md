@@ -86,19 +86,19 @@ When the moment came, Gowain reached for the handle and pulled the amber doors o
 
 He stepped through and accepted the bargain.
 
-Darkness swallowed him whole, and the next thing he knew, he was lying on the floor of the Blue Water Inn, gasping for breath. Alive. Changed. Marked by whatever price he had agreed to pay.
+Darkness swallowed him whole, and the next thing he knew, he was lying on the floor of the Blue Water Inn, gasping for breath.
 
 ## Return to Reality
 
-The mists of the tome released their hold, and Lorian found himself back in the room at the inn, barely alive and utterly devastated. Around him lay the bodies of his fallen companions—and then, impossibly, Gowain stirred and drew breath.
+The mists of the tome released their hold, and Lorian found himself back in the room at the inn, barely alive. Around him lay the bodies of his fallen companions—and then, impossibly, Gowain stirred and drew breath.
 
 Ireena, too, began to wake from unconsciousness.
 
 But Getafix did not move. His spirit had chosen another path.
 
-The party that had entered the vision together would not be the same party that emerged from it. The Tome of Strahd had shown them the price of war, the cost of ambition, and the terrible weight of choices made in darkness.
+The party that had entered the vision together would not be the same party that emerged from it. Strahd, however indirectly, had claimed one of them.
 
-And somewhere in the void between life and death, behind a set of amber doors, something dark and ancient had bonded itself to a certain Light Cleric.
+And somewhere in the void between life and death, behind a set of amber doors, something dark and ancient had bonded itself to a certain Cleric of Light.
 
 ---
 
