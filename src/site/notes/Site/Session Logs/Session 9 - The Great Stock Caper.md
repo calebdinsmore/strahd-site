@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/session-logs/session-9-the-great-stock-caper/"}
+{"dg-publish":true,"dg-path":"Session Logs/Session 9 - The Great Stock Caper.md","permalink":"/session-logs/session-9-the-great-stock-caper/"}
 ---
 
 # Session 9: The Great Stock Caper
@@ -66,7 +66,7 @@ What followed was approximately two hours of creative failure.
 
 The party learned quickly that the stocks were the province of one Izek Strazni—a large, bald, hard-jawed man clad in heavy armor. The prisoners had been sentenced by decree of the Baron for pickpocketing during a festival. Strazni was not interested in bonds, bribes, community service, appeals to mercy, offers to hang decorations, or any other avenue the party could think to suggest.
 
-Ireena Kolyana, recruited against her better judgment to make a direct appeal, achieved the remarkable feat of getting Strazni to walk over—only for negotiations to collapse the moment he arrived.
+Ireena Kolyana, recruited against her better judgment to make a direct appeal, achieved the remarkable feat of getting Strazni to walk over—she seemed to draw his attention in a peculiar way. Negotiations collapsed quickly, however.
 
 The halfling, watching all of this from his box, offered ongoing commentary.
 
